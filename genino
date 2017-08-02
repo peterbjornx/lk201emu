@@ -1,0 +1,2 @@
+#!/bin/sh
+cat kb.h cmd.c comm.c map.c ps2.c periph.c kb.c > ~/sketchbook/vt2k/vt2k.ino
